@@ -1,0 +1,5 @@
+{"intents": [
+  {"traning": ["Hi", "Hello", "How are you?", "I am fine and You?", "Greate", "What are you Doing?",
+               "nothing just roaming around."]},
+  {"to_ask": []}
+]}

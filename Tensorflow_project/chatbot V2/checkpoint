@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\ben\\PycharmProjects\\TensorflowProject\\chatbot V2\\pattern_model.tflearn"
+all_model_checkpoint_paths: "C:\\Users\\ben\\PycharmProjects\\TensorflowProject\\chatbot V2\\pattern_model.tflearn"

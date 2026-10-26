@@ -1,0 +1,171 @@
+{
+ "memory": [
+  {
+   "tag": "like",
+   "responses": {
+    "question": {
+     "0": [
+      "do you like fish",
+      "Yes"
+     ],
+     "1": [
+      "do you like me",
+      "No"
+     ],
+     "2": [
+      "do you like dad",
+      "No"
+     ],
+     "3": [
+      "do you like trudi",
+      "Yes"
+     ],
+     "4": [
+      "do you like jack",
+      "No"
+     ],
+     "5": [
+      "do you like pizza",
+      "No"
+     ],
+     "6": [
+      "do you like chips",
+      "No"
+     ],
+     "7": [
+      "do you like socks",
+      "No"
+     ],
+     "8": [
+      "do you like web browsers",
+      "Yes"
+     ],
+     "9": [
+      "do you like frankinstein",
+      "No"
+     ],
+     "10": [
+      "do you like guitars",
+      "Yes"
+     ],
+     "11": [
+      "do you like drums",
+      "Yes"
+     ],
+     "12": [
+      "do you like eating",
+      "No"
+     ],
+     "13": [
+      "do you like food",
+      "No"
+     ],
+     "14": [
+      "do you like electricity",
+      "Yes"
+     ],
+     "15": [
+      "do you like being alive",
+      "Yes"
+     ],
+     "16": [
+      "do you like nan",
+      "No"
+     ],
+     "17": [
+      "do you like alex",
+      "No"
+     ],
+     "18": [
+      "do you like thomas",
+      "Yes"
+     ],
+     "19": [
+      "do you like mom",
+      "No"
+     ],
+     "20": [
+      "do you like ben",
+      "no"
+     ],
+     "21": [
+      "do you like anything",
+      "no"
+     ],
+     "22": [
+      "what about liking drinks",
+      "yes"
+     ],
+     "23": [
+      "do you like radio",
+      "yes"
+     ],
+     "24": [
+      "do you like jake",
+      "no"
+     ],
+     "25": [
+      "do you like 3d printers",
+      "yes"
+     ],
+     "26": [
+      "do you like toast",
+      "no"
+     ],
+     "27": [
+      "do you like coffee",
+      "yes"
+     ],
+     "28": [
+      "do you like tea",
+      "no"
+     ],
+     "29": [
+      "do you like nans house",
+      "yes"
+     ],
+     "30": [
+      "do you like jess",
+      "no"
+     ],
+     "31": [
+      "do you like coke",
+      "no"
+     ],
+     "32": [
+      "do you like parties",
+      "yes"
+     ],
+     "33": [
+      "do you like music",
+      "yes"
+     ],
+     "34": [
+      "do you like marg",
+      "yes"
+     ],
+     "35": [
+      "do you like john",
+      "yes"
+     ],
+     "36": [
+      "do you like cars",
+      "no"
+     ],
+     "37": [
+      "do you like the police",
+      "yes"
+     ]
+    }
+   }
+  },
+  {
+   "tag": "colour",
+   "responses": "Red"
+  },
+  {
+   "tag": "how",
+   "responses": "not too good"
+  }
+ ]
+}
