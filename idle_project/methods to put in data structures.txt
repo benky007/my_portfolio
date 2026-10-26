@@ -1,0 +1,55 @@
+-built-in--
+init
+repr
+#contains
+#getitem
+setitem
+delitem
+iter
+hash
+len
+--list--
+append
+extend
+insert
+remove
+pop
+clear
+copy
+count
+sort
+reversed
+--maths--
+add
+radd
+iadd
+mul
+rmul
+imul
+--comparrisons--
+eq
+ne
+gt
+ge
+lt
+le
+--decorators--
+data
+type
+--all others--
+def __reduce__(self): raise NotImplementedError("this weird tell me please")
+def __subclasshook__(cls, __subclass): raise NotImplementedError("this weird tell me please")
+def __dir__(self): raise NotImplementedError("this weird tell me please")
+def __class__(self): raise NotImplementedError("this weird tell me please")
+def __or__(self, other): raise TypeError(f"'stack' object cannot be compared")
+def __and__(self, other): raise TypeError(f"'stack' object cannot be compared")
+def __cmp__(self, other): raise TypeError(f"'stack' object cannot be compared")
+def __ior__(self, other): raise TypeError(f"'stack' object cannot be compared")
+def __new__(cls): raise NotImplementedError("this weird tell me please")
+def __setattr__(self, __name: str, __value) -> None: raise NotImplementedError("this weird tell me please")
+def __delattr__(self, __name: str) -> None: raise NotImplementedError("this weird tell me please")
+def __format__(self, __format_spec: str) -> str: raise NotImplementedError("this weird tell me please")
+def __getattribute__(self, __name: str): raise NotImplementedError("this weird tell me please")
+def __sizeof__(self) -> int: raise NotImplementedError("this weird tell me please")
+def __init_subclass__(cls) -> None: raise NotImplementedError("this weird tell me please")
+def __del__(self): raise NotImplementedError("if you get this error message tell me please")

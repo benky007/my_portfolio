@@ -1,0 +1,51 @@
+{
+    "Bank": [
+        {
+            "summer": {
+                "Race": "Dragon",
+                "Class": "Mage",
+                "Spells": "Rock",
+                "Health": 67,
+                "Strength": 53,
+                "Dexterity": 38,
+                "Agility": 46,
+                "Magic Slots": 5,
+                "Magic Power": 36,
+                "Magic Reduction": 13,
+                "Range": 5
+            }
+        },
+        {
+            "elise": {
+                "Race": "Elf",
+                "Class": "Tank",
+                "Spells": "Psychic",
+                "Health": 60,
+                "Strength": 37,
+                "Dexterity": 34,
+                "Agility": 25,
+                "Magic Slots": 5,
+                "Knockback": 17,
+                "Shield": 19,
+                "Magic Power": 20,
+                "Range": 5
+            }
+        },
+        {
+            "ben": {
+                "Race": "Goblin",
+                "Class": "Support",
+                "Spells": "Fighting",
+                "Health": 52,
+                "Strength": 13,
+                "Dexterity": 41,
+                "Agility": 34,
+                "Magic Slots": 5,
+                "Health Aura": 18,
+                "Magic Aura": 11,
+                "Magic Power": 20,
+                "Range": 5
+            }
+        }
+    ]
+}

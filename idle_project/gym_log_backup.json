@@ -1,0 +1,10 @@
+{"Logs": [
+    {"Name": "Ben",
+      "Sessions": [],
+      "Charts": [
+        {"Goal": "Weight", "Entries": [{"Date": "__/__/____", "Value": "85.6kg"}]},
+        {"Goal": "Sleep", "Entries": [{"Date": "__/__/____", "Value": "8 hours"}]}],
+      "Cardio": []
+    }
+  ]
+}

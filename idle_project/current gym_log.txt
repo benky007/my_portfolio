@@ -1,0 +1,123 @@
+{
+    "Logs": [
+        {
+            "Name": "Ben",
+            "Sessions": {
+                "Date": "09/10/2024",
+                "Muscles": [
+                    "biceps",
+                    "shoulders",
+                    "forearms"
+                ],
+                "Duration": "99",
+                "Exercise1": {
+                    "Name": "rear delt flies",
+                    "Set1": [
+                        "12",
+                        "52"
+                    ],
+                    "Set2": [
+                        "10",
+                        "52"
+                    ],
+                    "Set3": [
+                        "10",
+                        "52"
+                    ]
+                },
+                "Exercise2": {
+                    "Name": "EZ bar preacher curl",
+                    "Set1": [
+                        "10",
+                        "10"
+                    ],
+                    "Set2": [
+                        "10",
+                        "15"
+                    ],
+                    "Set3": [
+                        "8",
+                        "15"
+                    ]
+                },
+                "Exercise3": {
+                    "Name": "incline dumbell curls",
+                    "Set1": [
+                        "10",
+                        "12"
+                    ],
+                    "Set2": [
+                        "10",
+                        "12"
+                    ],
+                    "Set3": [
+                        "8",
+                        "12"
+                    ]
+                },
+                "Exercise4": {
+                    "Name": "hammer curls",
+                    "Set1": [
+                        "15",
+                        "8"
+                    ],
+                    "Set2": [
+                        "15",
+                        "8"
+                    ],
+                    "Set3": [
+                        "15",
+                        "8"
+                    ]
+                },
+                "Exercise5": {
+                    "Name": "shoulder press machine",
+                    "Set1": [
+                        "15",
+                        "30"
+                    ],
+                    "Set2": [
+                        "15",
+                        "40"
+                    ]
+                },
+                "Exercise6": {
+                    "Name": "lateral raises",
+                    "Set1": [
+                        "10",
+                        "8"
+                    ],
+                    "Set2": [
+                        "8#",
+                        "8"
+                    ],
+                    "Set3": [
+                        "6",
+                        "8"
+                    ]
+                }
+            },
+            "Charts": [
+                {
+                    "Goal": "Weight",
+                    "Entries": [
+                        {
+                            "Date": "__/__/____",
+                            "Value": "85.6kg"
+                        }
+                    ]
+                },
+                {
+                    "Goal": "Sleep",
+                    "Entries": [
+                        {
+                            "Date": "__/__/____",
+                            "Value": "8 hours"
+                        }
+                    ]
+                }
+            ],
+            "Cardio": []
+        }
+    ]
+}

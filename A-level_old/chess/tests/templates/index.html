@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mouse Coordinates</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+</head>
+<body>
+    <h1>Mouse Coordinates</h1><br>
+    <label id="coordinates"></label><br>
+
+    <script>
+        function fetchPOST (x, y) {
+            var data = JSON.stringify({
+                X: x,
+                Y: y
+            });
+
+            fetch('/process', {
+                method: 'POST',
+                body: data,
+                headers: {
+                    'Content-type': 'application/json'
+                }}).then(response => response.json()
+                ).then(function(success) {
+                    console.log(success);
+                    document.getElementById('coordinates').innerHTML = success.X + "\n" + success.Y;
+                }).catch(error => console.log(error));
+        };
+
+        document.addEventListener('mousemove', function(event) {
+            const x = event.clientX;
+            const y = event.clientY;
+            fetchPOST(x, y);
+        });
+    </script>
+</body>
+</html>
+
