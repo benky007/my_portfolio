@@ -1,0 +1,18 @@
+{
+ "scores": [
+  {
+   "name": "BEN",
+   "wins": 8,
+   "losses": 3,
+   "draws": 2,
+   "count": 13
+  },
+  {
+   "name": "TST",
+   "wins": 3,
+   "losses": 7,
+   "draws": 2,
+   "count": 13
+  }
+ ]
+}
