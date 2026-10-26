@@ -1,0 +1,9 @@
+{
+    "root": {
+        "bg": "white",
+        "width": 500.0,
+        "height": 500.0,
+        "title": "rts"
+    },
+    "Widgets": []
+}
